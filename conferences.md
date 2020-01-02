@@ -70,3 +70,6 @@ https://www.cncf.io/community/kubecon-cloudnativecon-events/
 #### DevopsDays
 
 https://devopsdays.org
+https://devopsdays.org/events
+https://devopsdays.org/speaking
+https://devopsdays.org/blog
