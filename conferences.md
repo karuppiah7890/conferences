@@ -29,3 +29,44 @@ At the time of this writing, I see two countries where it's happening
 India: https://developersummit.com/india/
 Australia: https://developersummit.com/australia/
 
+#### RootConf
+
+https://hasgeek.com/rootconf
+https://hasgeek.com/rootconf/2020-delhi/
+https://rootconf.in/
+https://rootconf.in/2019/
+https://rootconf.in/2018/
+
+#### FlowCon
+
+https://www.flowcon.io/
+https://www.flowcon.fr/
+
+#### PGConf
+
+https://pgconf.in/
+https://pgconf.in/conferences/
+
+https://pgconf.asia/
+
+https://blog.pgconf.us/
+
+https://pgconf.ru/en/
+https://pgconf.ru
+
+https://www.pgcon.org
+
+https://postgresconf.org
+
+https://postgresconf.org/conferences
+
+https://www.2qpgconf.com/
+
+#### KubeCon
+
+https://kubecon.io
+https://www.cncf.io/community/kubecon-cloudnativecon-events/
+
+#### DevopsDays
+
+https://devopsdays.org
