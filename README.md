@@ -1,6 +1,8 @@
 # Conferences
 
 This repo is where I note down everything I have on conferences and all my CFPs!
+If you want to look at my talk videos and resources for my talks in meetups, 
+conferences or anything, checkout https://github.com/karuppiah7890/talks
 
 This list is highly for me and my career. So, it's based on my
 interests and the fields that I work in and the technologies that I use.
